@@ -8,3 +8,5 @@ env/
 __pycache__/
 *.pyc
 
+# vscode workspace
+inspoAI.code-workspace
